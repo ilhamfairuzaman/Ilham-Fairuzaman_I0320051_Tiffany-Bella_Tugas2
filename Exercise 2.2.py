@@ -4,10 +4,10 @@ nama  =  "Ilham Fairuzaman" #proses mencetak variabel print(nama)
 #nilai  dan  tipe data dalam variabel	dapat diubah
 umur  =  19	                #nilai  awal
 print(umur)	                #mencetak nilai umur
-print(type(umur))
+print(type(umur))           #mencetak tipe data
 umur = "Sembilan belas"	
-print(umur)                 #mengecek  tipe  data  umur umur  =  "dua  puluh  satu"  #nilai  setelah  diubah print(umur)	#mencetak nilai umur
-print(type(umur))	        #mengecek  tipe  data  umur
+print(umur)                 
+print(type(umur))	        
 
 namaDepan = "Ilham"
 namaBelakang = "Fairuzaman"
