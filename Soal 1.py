@@ -16,13 +16,13 @@ print(luas_kubus)
 
 # Program Konversi suhu celcius ke fahrenheit
 celcius = float(input("Masukkan suhu dalam Celcius: "))
-konversicf = (9/5 * celcius) + 32
-print(konversicf)
+fahrenheit = (9/5 * celcius) + 32
+print(fahrenheit)
 
 # Program Konversi suhu reamur ke kelvin
 reamur = float(input("Masukkan suhu dalam reamur: "))
-konversirk = (5/4 * reamur) + 273
-print(konversirk)
+kelvin = (5/4 * reamur) + 273
+print(kelvin)
 
 
 
