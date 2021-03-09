@@ -6,8 +6,8 @@ umur  =  19	                #nilai  awal
 print(umur)	                #mencetak nilai umur
 print(type(umur))
 umur = "Sembilan belas"	
-print(umur)    #mengecek  tipe  data  umur umur  =  "dua  puluh  satu"  #nilai  setelah  diubah print(umur)	#mencetak nilai umur
-print(type(umur))	                #mengecek  tipe  data  umur
+print(umur)                 #mengecek  tipe  data  umur umur  =  "dua  puluh  satu"  #nilai  setelah  diubah print(umur)	#mencetak nilai umur
+print(type(umur))	        #mengecek  tipe  data  umur
 
 namaDepan = "Ilham"
 namaBelakang = "Fairuzaman"
