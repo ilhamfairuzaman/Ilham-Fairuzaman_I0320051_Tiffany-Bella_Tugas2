@@ -6,12 +6,12 @@ print(luas_pp)
 
 # Menghitung luas lingkaran
 r = float(input("Masukkan jari jari lingkaran: "))
-luas_lingkaran = 3.14 * r**2
+luas_lingkaran = 3.14 * (r**2)
 print(luas_lingkaran)
 
 # Menghitung luas kubus
 sisi = float(input("Masukkan panjang rusuk kubus: "))
-luas_kubus = 6 * sisi **2
+luas_kubus = 6 * (sisi**2)
 print(luas_kubus)
 
 # Program Konversi suhu celcius ke fahrenheit
